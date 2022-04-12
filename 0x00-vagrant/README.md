@@ -1,1 +1,1 @@
-for vagrant folder
+ECHO is on.
